@@ -15,6 +15,8 @@ last_char = name[-1]      # 'a'
 
 # Slicing strings
 first_three = name[:3]    # 'Ami'
+print(name[1: ])  # 'miya'
+print(name[ :4])  # 'Amiya'
 
 # Changing case
 upper_name = name.upper() # 'AMIYA'
